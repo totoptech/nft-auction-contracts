@@ -1,0 +1,10 @@
+node_modules
+package-lock.json
+src/contracts/artifacts
+src/abis
+src/abis/
+src/abis/*.json
+yarn.lock
+completed-contracts
+.env
+build
